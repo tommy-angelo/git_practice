@@ -1,0 +1,17 @@
+git status 
+-- zjistim, jak na tom jsem
+git add "file"
+-- vyberu soubory
+git commit -m "nazev commitu"
+-- 
+git push
+-- pushne se do repozitáøe
+-----------------------------------------------
+git pull
+-- stáhnu repozitáø z gitlabu
+git init
+-- zaènou se trackovat zmìny
+git branch 
+-- zobrazí seznam branchí
+git branch -D "název branche"
+- smaže danou branch
